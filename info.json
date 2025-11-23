@@ -1,0 +1,40 @@
+{
+  "name": "AquaForest_Riders",
+  "version": "0.6",
+  "author": "dman028or853",
+  "mod_type": "pak",
+  "mod_page": "https://github.com/dman028/SRCW-AquaForest_Riders",
+  "pak_data": {
+    "pak_files": [
+      {
+        "file_name": "mod.pak",
+        "file_path": "mod.pak",
+        "file_count": 2,
+        "total_size": 31292324,
+        "mount_point": "",
+        "files": [
+          "UNION/Content/CriWareData/BGM_STG1028.acb",
+          "UNION/Content/CriWareData/BGM_STG1028.awb"
+        ]
+      }
+    ],
+    "files_index": [
+      {
+        "path": "UNION/Content/CriWareData/BGM_STG1028.acb",
+        "size": 144160,
+        "compressed_size": null,
+        "offset": 0,
+        "archive": null
+      },
+      {
+        "path": "UNION/Content/CriWareData/BGM_STG1028.awb",
+        "size": 31148164,
+        "compressed_size": null,
+        "offset": 124200,
+        "archive": null
+      }
+    ],
+    "total_files": 2,
+    "total_size": 31292324
+  }
+}
