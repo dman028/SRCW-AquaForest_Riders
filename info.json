@@ -1,16 +1,16 @@
 {
   "name": "AquaForest_Riders",
-  "version": "0.6",
+  "version": "0.7",
   "author": "dman028or853",
   "mod_type": "pak",
-  "mod_page": "https://github.com/dman028/SRCW-AquaForest_Riders",
+  "mod_page": "https://gamebanana.com/sounds/84091",
   "pak_data": {
     "pak_files": [
       {
         "file_name": "mod.pak",
         "file_path": "mod.pak",
         "file_count": 2,
-        "total_size": 31292324,
+        "total_size": 39080068,
         "mount_point": "",
         "files": [
           "UNION/Content/CriWareData/BGM_STG1028.acb",
@@ -28,13 +28,13 @@
       },
       {
         "path": "UNION/Content/CriWareData/BGM_STG1028.awb",
-        "size": 31148164,
+        "size": 38935908,
         "compressed_size": null,
-        "offset": 124200,
+        "offset": 124201,
         "archive": null
       }
     ],
     "total_files": 2,
-    "total_size": 31292324
+    "total_size": 39080068
   }
 }
